@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="main-header">
+    <div class="container">
+      <h1 class="logo">RAO 🕶 SAHAB</h1>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Features</a></li>
+          <li><a href="#">Pricing</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h2>Welcome to RAO SAHAB</h2>
+      <p>We help you build your future with smart digital solutions.</p>
+      <a href="#" class="btn">Get Started</a>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="features">
+    <div class="container">
+      <h2>Our Features</h2>
+      <div class="feature-boxes">
+        <div class="box">
+          <h3>Fast</h3>
+          <p>Lightning fast performance to keep you ahead.</p>
+        </div>
+        <div class="box">
+          <h3>Responsive</h3>
+          <p>Looks great on any screen size or device.</p>
+        </div>
+        <div class="box">
+          <h3>Easy to Use</h3>
+          <p>Simple interface with powerful features.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call to Action -->
+  <section class="cta">
+    <div class="container">
+      <h2>Ready to get started?</h2>
+      <a href="#" class="btn btn-dark">Join Now</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 RAO SAHAB. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
